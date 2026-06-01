@@ -63,8 +63,7 @@ If incorrect information is entered, an error message appears and the form is no
 -	Reservation data is not permanently stored in a database
 -	Form submission is for demonstration purposes only
 
-(If no issues exist, write:
-"No known issues at the time of submission.")
+
 5. References
 References used in this project include:
 -	HTML, CSS and JavaScript tutorials
