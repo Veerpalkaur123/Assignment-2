@@ -22,7 +22,7 @@ C. Reservation Page (reservation.html)
 -	Reservation date and time
 -	Number of people
 -	Special requests
--	Deposit amount
+-	Deposit amount : I faced errors in this but the result i needed was not achieved even after tryung for multiple times.
 D. Restaurant Page (restaurants.html)
 -	Contains the different restaurant options
 -	Variety of food 
